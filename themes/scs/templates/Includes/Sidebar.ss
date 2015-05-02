@@ -1,0 +1,3 @@
+<div class="sidebar">
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi in erat rutrum luctus vosum, et lobortis odio gravida eu. Praesent auctor nisl eget nulla efficitur, et dapibus justo convallis. Aenean dignissim ultrices enim, vitae ultrices eros finibus eu. In vestibulum tincidunt molestie. Maecenas id eleifend quam. Quisque sagittis mauris eget nisl scelerisque, facilisis suscipit diam blandit.</p>
+</div>
